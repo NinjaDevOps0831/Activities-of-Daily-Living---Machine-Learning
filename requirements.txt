@@ -1,0 +1,16 @@
+pyadlml
+numpy
+pandas
+joblib
+torch
+mega.py
+dask[complete]
+matplotlib
+scipy
+sqlalchemy
+plotly
+dash_daq
+dash-bootstrap-components
+dash
+mega.py
+sklearn

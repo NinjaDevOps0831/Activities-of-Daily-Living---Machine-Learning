@@ -1,0 +1,32 @@
+# Intellij
+# User-specific stuff
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+# IPython
+profile_default/
+ipython_config.py
+venv_pyadml/*
+
+# pipy
+build/*
+dist/*
+pyadlml.egg-info 
+
+# sphinx documentaiton
+docs/_build
